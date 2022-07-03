@@ -1,8 +1,9 @@
 ### Hi there 👋-I am MUHAMMAD IFTIKHAR -aka [IFFISHELLS](https://iffishells.wordpress.com/)🤖.
 ## I am Data Scientist,NLP Engineer,Web Developer!
 - 🔭 I’m currently working on [Pashto Text to Speech Synthesis](https://github.com/iffishells/TTS-Speech-Synthesis-FYP).
-- 🌱 I’m currently learning MERN - Mongo,Express,React,Node 
-- 👯 I’m collaborating in @colab- FAST NUCES
+- 🌱 I’m currently learning MERN - Mongo,Express,React,Node. 
+- 👯 I’m collaborating in @colab- FAST NUCES.
+- 👩‍💻 Currently I am working at Dviz Tech as Python Developer on Remote Job.
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...

@@ -1,7 +1,8 @@
-### Hi there 👋-I am MUHAMMAD IFTIKHAR -aka [IFFISHELLS](https://iffishells.wordpress.com/)🤖.
-## I am Data Scientist,NLP Engineer!
-- I'm currently Junior AI Research Engineer at [DeepChain Solutions](https://www.deepchain.pk/) 
-- 🌱 I’m currently learning Deep Learning, Large Language Models , MLops.
+# Hello there! 👋 - I am MUHAMMAD IFTIKHAR - aka [IFFISHELLS](https://iffishells.wordpress.com/) 🤖.
+
+## I am a Data Scientist and NLP Engineer!
+- Currently a Machine Learning Engineer at [Revolve AI](https://revolveai.com/) (formerly Junior AI Research Engineer at [DeepChain Solutions](https://www.deepchain.pk/)).
+- 🌱 Currently learning Deep Learning, Large Language Models, and MLops.
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...

@@ -4,7 +4,7 @@
 - Currently Junior AI Research Engineer at [DeepChain Solutions](https://www.deepchain.pk/)).
 - 🌱 Currently learning Deep Learning, Large Language Models, and MLops.
 ### About Me:
-I'm passionate about leveraging data to gain meaningful insights and create intelligent systems. My expertise lies in the intersection of data science and natural language processing, where I thrive on solving complex problems and building innovative solutions.
+*I am an experienced AI Research Engineer in Pakistan with a strong background in machine learning,deep learning and Generative AI. I specialize in time series domain,Generative AI domain and have a proven track record of developing and implementing high-performance models to solve complex business problems. With over 2 years of experience in Data Science, I am adept at data preprocessing, feature engineering,model selection and model deployment. I have a passion for working in the AI field and always eager to take on new challenges. I am confident in my ability to apply my skills and experience to tackle complex AI problems and drive innovation. I am seeking a challenging role in the field of AI where I can continue to develop my skills and make a meaningful contribution to the industry.*
 
 ## **Work Experiene**
 ### ***AI Consultant Islamabad, Pakistan***
